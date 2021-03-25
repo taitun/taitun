@@ -1,10 +1,10 @@
 # Welcome to my world !
 
-- 👋 Hi, I’m @taitun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pim
+- 👀 I’m interested in IT, Humans, Social Engineering
+- 🌱 I’m currently learning to enhance my developer skills
+- 💞️ I’m looking to collaborate on Full Stack Development
+- 📫 Reach me via email, GitHub
 
 <!---
 taitun/taitun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
