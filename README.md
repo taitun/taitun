@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Pim
 - 👀 I’m interested in IT, Humans, Social Engineering
-- 🌱 I’m currently learning to enhance my developer skills
+- 🌱 Enhancing my DevOps skills
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 Reach me via email, GitHub
 
